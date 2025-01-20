@@ -1,0 +1,47 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Iinclude",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "-o",
+      "bin/tool/hint.o",
+      "src/tool/hint.cpp"
+    ],
+    "directory": "/home/penghui/PHMarket",
+    "file": "/home/penghui/PHMarket/src/tool/hint.cpp",
+    "output": "/home/penghui/PHMarket/bin/tool/hint.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Iinclude",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "-o",
+      "bin/main.o",
+      "src/main.cpp"
+    ],
+    "directory": "/home/penghui/PHMarket",
+    "file": "/home/penghui/PHMarket/src/main.cpp",
+    "output": "/home/penghui/PHMarket/bin/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Iinclude",
+      "-Wall",
+      "-Wextra",
+      "-c",
+      "-o",
+      "bin/interface/interface.o",
+      "src/interface/interface.cpp"
+    ],
+    "directory": "/home/penghui/PHMarket",
+    "file": "/home/penghui/PHMarket/src/interface/interface.cpp",
+    "output": "/home/penghui/PHMarket/bin/interface/interface.o"
+  }
+]
